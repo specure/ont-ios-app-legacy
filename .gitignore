@@ -1,0 +1,55 @@
+# rmbt-ios .gitignore file
+
+.DS_Store
+
+# Xcode specific files
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+#project.xcworkspace
+*.xccheckout
+xcuserdata
+
+# Automatic backup files
+*~.nib/
+*.swp
+*~
+*.dat
+*.dep
+
+# Project specific files
+#Sources/RMBTConfig.h
+
+# fastlane related
+report.xml
+fastlane/screenshots
+
+# ipa related
+RMBT_beta.ipa
+RMBT.ipa
+RMBT.app.dSYM.zip
+/*.ipa
+/*.zip
+
+# sigh related
+/Error*.png
+/*.mobileprovision
+
+# symlinks
+Configurations/Shared.xcconfig
+Sources/RMBTConfig.swift
+Sources/QOSConfig.swift
+Sources/UIConfig.swift
+
+#
+build
+docs
+
+fastlane/Preview.html
+fastlane/test_output/
+Preview.html
+
+Pods/

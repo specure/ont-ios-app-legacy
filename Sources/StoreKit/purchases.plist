@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>com.specure.nettest.remove_ads</string>
+		<key>name</key>
+		<string>Remove Ads</string>
+		<key>event</key>
+		<string>Remove Ads</string>
+		<key>messageLocalizationIdentifier</key>
+		<string>RemoveAds</string>
+		<key>uniqueIdentifier</key>
+		<string>com.specure.nettest.remove_ads</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="RMBTVisitUsCell" customModule="RMBT" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="171"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="171"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2XC-7H-EKe">
+                        <rect key="frame" x="64" y="10" width="192" height="40"/>
+                        <color key="backgroundColor" red="0.1215686275" green="0.21960784310000001" blue="0.54901960780000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="192" id="fVJ-24-bNd"/>
+                            <constraint firstAttribute="height" constant="40" id="jpR-uF-PFa"/>
+                        </constraints>
+                        <state key="normal" title="Visit moqos.eu">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XMi-6U-83c">
+                        <rect key="frame" x="10" y="90" width="300" height="56"/>
+                        <string key="text">Visit moqos.eu for more information 
+about the project.</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow-right" translatesAutoresizingMaskIntoConstraints="NO" id="nDa-Lp-1Yz">
+                        <rect key="frame" x="234" y="24" width="12" height="12"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="12" id="1o5-aE-Eah"/>
+                            <constraint firstAttribute="width" constant="12" id="dKs-qR-Ixn"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="XMi-6U-83c" firstAttribute="top" secondItem="2XC-7H-EKe" secondAttribute="bottom" constant="40" id="2fq-iG-7nZ"/>
+                <constraint firstAttribute="bottom" secondItem="XMi-6U-83c" secondAttribute="bottom" constant="25" id="Ycf-hz-y97"/>
+                <constraint firstAttribute="trailing" secondItem="XMi-6U-83c" secondAttribute="trailing" constant="10" id="btV-YE-pqS"/>
+                <constraint firstItem="nDa-Lp-1Yz" firstAttribute="trailing" secondItem="2XC-7H-EKe" secondAttribute="trailing" constant="-10" id="d4c-rh-2ig"/>
+                <constraint firstItem="2XC-7H-EKe" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="dHA-kh-GFr"/>
+                <constraint firstItem="nDa-Lp-1Yz" firstAttribute="centerY" secondItem="2XC-7H-EKe" secondAttribute="centerY" id="iP6-LQ-YLF"/>
+                <constraint firstItem="XMi-6U-83c" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="10" id="qDa-fC-P9S"/>
+                <constraint firstItem="2XC-7H-EKe" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="vGA-KN-gHf"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="184" height="121"/>
+            <connections>
+                <outlet property="arrowRightImageView" destination="nDa-Lp-1Yz" id="iji-hT-Ldd"/>
+                <outlet property="button" destination="2XC-7H-EKe" id="fce-nk-o9l"/>
+                <outlet property="subtitleLabel" destination="XMi-6U-83c" id="WVb-wx-bzk"/>
+            </connections>
+            <point key="canvasLocation" x="244.80000000000001" y="185.75712143928038"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="arrow-right" width="52.457141876220703" height="52.457141876220703"/>
+    </resources>
+</document>

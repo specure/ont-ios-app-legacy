@@ -1,0 +1,453 @@
+
+/* Class = "UITableViewSection"; headerTitle = "Measurement server settings"; ObjectID = "07h-M9-zL3"; */
+"07h-M9-zL3.headerTitle" = "Measurement server settings";
+
+/* Class = "UILabel"; text = "Value Label"; ObjectID = "1GW-A1-2PK"; */
+"1GW-A1-2PK.text" = "Value Label";
+
+/* Class = "UILabel"; text = "0,08"; ObjectID = "1Op-gC-xVV"; */
+"1Op-gC-xVV.text" = "0,08";
+
+/* Class = "UINavigationItem"; title = "Qos result"; ObjectID = "1lq-ow-b1o"; */
+"1lq-ow-b1o.title" = "Qos result";
+
+/* Class = "UILabel"; text = "Source Code"; ObjectID = "2FR-Fx-OxX"; */
+"2FR-Fx-OxX.text" = "Source Code";
+
+/* Class = "UIView"; accessibilityLabel = "Map View Container"; ObjectID = "2gg-YZ-6sP"; */
+"2gg-YZ-6sP.accessibilityLabel" = "Map View Container";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "32y-09-cDX"; */
+"32y-09-cDX.text" = "Help";
+
+/* Class = "UILabel"; text = "Anonymous mode"; ObjectID = "33t-Ft-poy"; */
+"33t-Ft-poy.text" = "Anonymous mode";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "34z-Gg-Uf0"; */
+"34z-Gg-Uf0.text" = "Website";
+
+/* Class = "UIBarButtonItem"; title = "Reset"; ObjectID = "3NX-kx-AMd"; */
+"3NX-kx-AMd.title" = "Reset";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3ST-ZT-NGP"; */
+"3ST-ZT-NGP.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "80"; ObjectID = "3ZZ-v8-f98"; */
+"3ZZ-v8-f98.placeholder" = "80";
+
+/* Class = "UITextField"; text = "100"; ObjectID = "3ZZ-v8-f98"; */
+"3ZZ-v8-f98.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy and Terms of Use"; ObjectID = "4g8-RP-UtA"; */
+"4g8-RP-UtA.normalTitle" = "Privacy Policy and Terms of Use";
+
+/* Class = "UIView"; accessibilityLabel = "Map Options Overlay View"; ObjectID = "7uQ-MO-oLc"; */
+"7uQ-MO-oLc.accessibilityLabel" = "Map Options Overlay View";
+
+/* Class = "UIBarButtonItem"; title = "Decline"; ObjectID = "8J0-JS-fGg"; */
+"8J0-JS-fGg.title" = "Decline";
+
+/* Class = "UIViewController"; title = "Statistics"; ObjectID = "8TU-z5-rfT"; */
+"8TU-z5-rfT.title" = "Statistics";
+
+/* Class = "UINavigationItem"; title = "Help"; ObjectID = "9ac-gL-Vb3"; */
+"9ac-gL-Vb3.title" = "Help";
+
+/* Class = "UINavigationItem"; title = "Qos Test Type Results"; ObjectID = "9y0-Ag-jWo"; */
+"9y0-Ag-jWo.title" = "Qos Test Type Results";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BwA-TB-Npi"; */
+"BwA-TB-Npi.text" = "Title";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Nerd mode enables advanced features. The app will display more information before and during the test."; ObjectID = "C1q-zW-kfb"; */
+"C1q-zW-kfb.footerTitle" = "Demo text: Nerd mode enables advanced features. The app will display more information before and during the test.";
+
+/* Class = "UITableViewSection"; headerTitle = "Nerd mode"; ObjectID = "C1q-zW-kfb"; */
+"C1q-zW-kfb.headerTitle" = "Nerd mode";
+
+/* Class = "UIBarButtonItem"; title = "Decline"; ObjectID = "CfN-bb-rSm"; */
+"CfN-bb-rSm.title" = "Decline";
+
+/* Class = "UILabel"; text = "Ping (ms)"; ObjectID = "Cgf-md-g2L"; */
+"Cgf-md-g2L.text" = "Ping (ms)";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "Cwb-EJ-VzB"; */
+"Cwb-EJ-VzB.title" = "Details";
+
+/* Class = "UINavigationItem"; title = "Nerd mode settings"; ObjectID = "CyF-Ni-YR9"; */
+"CyF-Ni-YR9.title" = "Nerd mode settings";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "D2v-Ce-kFE"; */
+"D2v-Ce-kFE.title" = "Map";
+
+/* Class = "UILabel"; text = "E-Mail"; ObjectID = "DNI-tu-v8L"; */
+"DNI-tu-v8L.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "FeL-QG-CbY"; */
+"FeL-QG-CbY.text" = "Server";
+
+/* Class = "UILabel"; text = "Value Label"; ObjectID = "FuR-aq-EeI"; */
+"FuR-aq-EeI.text" = "Value Label";
+
+/* Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "Fwg-ko-KwK"; */
+"Fwg-ko-KwK.headerTitle" = "General";
+
+/* Class = "UILabel"; text = "Use TLS"; ObjectID = "GVr-Df-8wT"; */
+"GVr-Df-8wT.text" = "Use TLS";
+
+/* Class = "UILabel"; text = "Google Maps Legal Notice"; ObjectID = "GYM-Wl-vh4"; */
+"GYM-Wl-vh4.text" = "Google Maps Legal Notice";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "GuU-xe-daX"; */
+"GuU-xe-daX.title" = "Settings";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "GvM-qT-dqk"; */
+"GvM-qT-dqk.text" = "Result";
+
+/* Class = "UIViewController"; title = "Help"; ObjectID = "HAQ-9D-mnM"; */
+"HAQ-9D-mnM.title" = "Help";
+
+/* Class = "UILabel"; text = "Publish personal data"; ObjectID = "ITC-cN-71M"; */
+"ITC-cN-71M.text" = "Publish personal data";
+
+/* Class = "UILabel"; text = "START"; ObjectID = "IcK-4O-eFJ"; */
+"IcK-4O-eFJ.text" = "START";
+
+/* Class = "UILabel"; text = "Download (Mbps)"; ObjectID = "JIa-DF-NDp"; */
+"JIa-DF-NDp.text" = "Download (Mbps)";
+
+/* Class = "UILabel"; text = "Enabled"; ObjectID = "JbT-qS-LZB"; */
+"JbT-qS-LZB.text" = "Enabled";
+
+/* Class = "UITableViewSection"; headerTitle = "Developer settings"; ObjectID = "K5f-AS-YDw"; */
+"K5f-AS-YDw.headerTitle" = "Developer settings";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "KCo-6F-Bl3"; */
+"KCo-6F-Bl3.text" = "Port";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KO5-hf-mYn"; */
+"KO5-hf-mYn.text" = "Title";
+
+/* Class = "UILabel"; text = "github.com/specure"; ObjectID = "KnB-Cx-Bx9"; */
+"KnB-Cx-Bx9.text" = "github.com/specure";
+
+/* Class = "UILabel"; text = "View detailed measurement report"; ObjectID = "L73-Gl-I5q"; */
+"L73-Gl-I5q.text" = "View detailed measurement report";
+
+/* Class = "UISegmentedControl"; LJ1-3n-ny7.segmentTitles[0] = "Standard"; ObjectID = "LJ1-3n-ny7"; */
+"LJ1-3n-ny7.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; LJ1-3n-ny7.segmentTitles[1] = "Satellite"; ObjectID = "LJ1-3n-ny7"; */
+"LJ1-3n-ny7.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; LJ1-3n-ny7.segmentTitles[2] = "Hybrid"; ObjectID = "LJ1-3n-ny7"; */
+"LJ1-3n-ny7.segmentTitles[2]" = "Hybrid";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "McQ-dN-3M5"; */
+"McQ-dN-3M5.text" = "Map";
+
+/* Class = "UILabel"; text = "Enable QOS measurements"; ObjectID = "N2S-Jk-3ed"; */
+"N2S-Jk-3ed.text" = "Enable QOS measurements";
+
+/* Class = "UILabel"; text = "Enable loop mode"; ObjectID = "NUz-iP-vPS"; */
+"NUz-iP-vPS.text" = "Enable loop mode";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "NcE-oO-JJp"; */
+"NcE-oO-JJp.text" = "Detail";
+
+/* Class = "UILabel"; text = "Client UUID"; ObjectID = "Osc-Rf-bb3"; */
+"Osc-Rf-bb3.text" = "Client UUID";
+
+/* Class = "UIBarButtonItem"; title = "Continue"; ObjectID = "PJY-H6-liA"; */
+"PJY-H6-liA.title" = "Continue";
+
+/* Class = "UILabel"; text = "Advanced settings"; ObjectID = "QNy-tj-oLd"; */
+"QNy-tj-oLd.text" = "Advanced settings";
+
+/* Class = "UILabel"; text = "Key Label"; ObjectID = "RnD-W3-EGP"; */
+"RnD-W3-EGP.text" = "Key Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "RwG-cB-vU8"; */
+"RwG-cB-vU8.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "U1Z-BQ-Nh5"; */
+"U1Z-BQ-Nh5.text" = "40";
+
+/* Class = "UILabel"; text = "SPECURE GmbH"; ObjectID = "UJq-gy-8hP"; */
+"UJq-gy-8hP.text" = "SPECURE GmbH";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Usz-RC-BWX"; */
+"Usz-RC-BWX.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "my_test_tag"; ObjectID = "V35-UH-Nas"; */
+"V35-UH-Nas.placeholder" = "my_test_tag";
+
+/* Class = "UILabel"; text = "Mbps"; ObjectID = "VJr-Yt-BPC"; */
+"VJr-Yt-BPC.text" = "Mbps";
+
+/* Class = "UITextField"; placeholder = "80"; ObjectID = "VLY-fq-qJK"; */
+"VLY-fq-qJK.placeholder" = "80";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "Vkf-xy-0sf"; */
+"Vkf-xy-0sf.text" = "Home";
+
+/* Class = "UINavigationItem"; title = "Filter"; ObjectID = "WQj-gr-9bs"; */
+"WQj-gr-9bs.title" = "Filter";
+
+/* Class = "UITextField"; placeholder = "hostname.example.org"; ObjectID = "Wae-Le-bTb"; */
+"Wae-Le-bTb.placeholder" = "hostname.example.org";
+
+/* Class = "UILabel"; text = "Privacy Policy and Terms of Use"; ObjectID = "WxM-O8-kUr"; */
+"WxM-O8-kUr.text" = "Privacy Policy and Terms of Use";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "XBo-Ye-Vfv"; */
+"XBo-Ye-Vfv.text" = "Detail";
+
+/* Class = "UILabel"; text = "0,08"; ObjectID = "XNs-vn-5Ux"; */
+"XNs-vn-5Ux.text" = "0,08";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "XSG-Co-NU1"; */
+"XSG-Co-NU1.text" = "History";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "Xdq-qz-Hjt"; */
+"Xdq-qz-Hjt.text" = "Server";
+
+/* Class = "UILabel"; text = "2016-08-01 16:46"; ObjectID = "XeU-H1-sB9"; */
+"XeU-H1-sB9.text" = "2016-08-01 16:46";
+
+/* Class = "UILabel"; text = "Control server version"; ObjectID = "YbT-Jt-lbL"; */
+"YbT-Jt-lbL.text" = "Control server version";
+
+/* Class = "UILabel"; text = "Enabled"; ObjectID = "Z5k-Uy-ggH"; */
+"Z5k-Uy-ggH.text" = "Enabled";
+
+/* Class = "UILabel"; text = "No GPS"; ObjectID = "ZP0-ZL-IxN"; */
+"ZP0-ZL-IxN.text" = "No GPS";
+
+/* Class = "UILabel"; text = "IPv4 only"; ObjectID = "a3R-np-Qeo"; */
+"a3R-np-Qeo.text" = "IPv4 only";
+
+/* Class = "UILabel"; text = "NKOM-Server"; ObjectID = "a95-Jk-rVK"; */
+"a95-Jk-rVK.text" = "NKOM-Server";
+
+/* Class = "UINavigationItem"; title = "Filter"; ObjectID = "aLL-PK-DYJ"; */
+"aLL-PK-DYJ.title" = "Filter";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "aVO-kl-t2n"; */
+"aVO-kl-t2n.title" = "History";
+
+/* Class = "UINavigationItem"; title = "Statistics"; ObjectID = "abW-PV-D7h"; */
+"abW-PV-D7h.title" = "Statistics";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "ahd-PM-8Rd"; */
+"ahd-PM-8Rd.text" = "Version";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Developer settings allow..."; ObjectID = "b14-7P-9ks"; */
+"b14-7P-9ks.footerTitle" = "Demo text: Developer settings allow...";
+
+/* Class = "UIBarButtonItem"; title = "Agree"; ObjectID = "b2f-qN-fLB"; */
+"b2f-qN-fLB.title" = "Agree";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "bFc-eS-31w"; */
+"bFc-eS-31w.text" = "Statistics";
+
+/* Class = "UILabel"; text = "1000.0"; ObjectID = "bKg-P8-Lrg"; */
+"bKg-P8-Lrg.text" = "1000.0";
+
+/* Class = "UIBarButtonItem"; title = "Agree"; ObjectID = "bQO-qS-lkm"; */
+"bQO-qS-lkm.title" = "Agree";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Anonymous mode prevents association with client uuid, measurement result will be immediately disassociated."; ObjectID = "cLZ-QU-ENt"; */
+"cLZ-QU-ENt.footerTitle" = "Demo text: Anonymous mode prevents association with client uuid, measurement result will be immediately disassociated.";
+
+/* Class = "UINavigationItem"; title = "Developer settings"; ObjectID = "cPz-G7-Fge"; */
+"cPz-G7-Fge.title" = "Developer settings";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "cX1-eA-Poe"; */
+"cX1-eA-Poe.title" = "Result";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cp1-at-CBh"; */
+"cp1-at-CBh.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "hostname.example.org"; ObjectID = "cp2-Dh-bHT"; */
+"cp2-Dh-bHT.placeholder" = "hostname.example.org";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Custom Map Server ..."; ObjectID = "dCk-P7-fML"; */
+"dCk-P7-fML.footerTitle" = "Demo text: Custom Map Server ...";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Map Server"; ObjectID = "dCk-P7-fML"; */
+"dCk-P7-fML.headerTitle" = "Custom Map Server";
+
+/* Class = "UILabel"; text = "?"; ObjectID = "dc5-fA-0Qi"; */
+"dc5-fA-0Qi.text" = "?";
+
+/* Class = "UILabel"; text = "iPhone 6s"; ObjectID = "dl4-7h-UO6"; */
+"dl4-7h-UO6.text" = "iPhone 6s";
+
+/* Class = "UINavigationItem"; title = "Publish personal data"; ObjectID = "eIe-WO-zuN"; */
+"eIe-WO-zuN.title" = "Publish personal data";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "ejY-AV-BwI"; */
+"ejY-AV-BwI.text" = "Port";
+
+/* Class = "UILabel"; text = "Developer settings"; ObjectID = "eqW-xC-IDP"; */
+"eqW-xC-IDP.text" = "Developer settings";
+
+/* Class = "UILabel"; text = "Upload (Mbps)"; ObjectID = "fJQ-2w-VU1"; */
+"fJQ-2w-VU1.text" = "Upload (Mbps)";
+
+/* Class = "UILabel"; text = "I agree with NKOM's PrivacyPolicy and Terms of Use for Nettfart."; ObjectID = "fKr-Do-h1I"; */
+"fKr-Do-h1I.text" = "I agree with NKOM's PrivacyPolicy and Terms of Use for Nettfart.";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "fdU-dn-pS1"; */
+"fdU-dn-pS1.title" = "Settings";
+
+/* Class = "UILabel"; text = "mbps"; ObjectID = "g1Y-Sf-ziS"; */
+"g1Y-Sf-ziS.text" = "mbps";
+
+/* Class = "UILabel"; text = "mbps"; ObjectID = "gaU-NN-NdN"; */
+"gaU-NN-NdN.text" = "mbps";
+
+/* Class = "UILabel"; text = "Developed by"; ObjectID = "h6Q-yF-riO"; */
+"h6Q-yF-riO.text" = "Developed by";
+
+/* Class = "UILabel"; text = "Use TLS"; ObjectID = "hQB-AN-K9D"; */
+"hQB-AN-K9D.text" = "Use TLS";
+
+/* Class = "UILabel"; text = "Choose measurement server"; ObjectID = "hRN-Dy-TTi"; */
+"hRN-Dy-TTi.text" = "Choose measurement server";
+
+/* Class = "UILabel"; text = "I agree with the PrivacyPolicy and Terms of Use for this application."; ObjectID = "hl2-B3-7CI"; */
+"hl2-B3-7CI.text" = "I agree with the PrivacyPolicy and Terms of Use for this application.";
+
+/* Class = "UILabel"; text = "© SPECURE GmbH"; ObjectID = "iQr-Yb-saR"; */
+"iQr-Yb-saR.text" = "© SPECURE GmbH";
+
+/* Class = "UILabel"; text = "_Network details"; ObjectID = "iZS-B7-siI"; */
+"iZS-B7-siI.text" = "_Network details";
+
+/* Class = "UILabel"; text = "_Network details"; ObjectID = "jCJ-MV-GaL"; */
+"jCJ-MV-GaL.text" = "_Network details";
+
+/* Class = "UILabel"; text = "_Specure - Nettest"; ObjectID = "jNc-UH-nVe"; */
+"jNc-UH-nVe.text" = "_Specure - Nettest";
+
+/* Class = "UILabel"; text = "?"; ObjectID = "jUo-vF-i75"; */
+"jUo-vF-i75.text" = "?";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Loop mode executes a new measurement every <min_delay> until <max_tests> is reached."; ObjectID = "kah-nA-Eon"; */
+"kah-nA-Eon.footerTitle" = "Demo text: Loop mode executes a new measurement every <min_delay> until <max_tests> is reached.";
+
+/* Class = "UITableViewSection"; headerTitle = "Loop mode"; ObjectID = "kah-nA-Eon"; */
+"kah-nA-Eon.headerTitle" = "Loop mode";
+
+/* Class = "UILabel"; text = "ms"; ObjectID = "kei-Un-sdB"; */
+"kei-Un-sdB.text" = "ms";
+
+/* Class = "UILabel"; text = "Enable nerd mode"; ObjectID = "laT-29-Gmt"; */
+"laT-29-Gmt.text" = "Enable nerd mode";
+
+/* Class = "UILabel"; text = "Key Label"; ObjectID = "lrx-jp-iK5"; */
+"lrx-jp-iK5.text" = "Key Label";
+
+/* Class = "UILabel"; text = "1000.0"; ObjectID = "mRr-q7-VEc"; */
+"mRr-q7-VEc.text" = "1000.0";
+
+/* Class = "UILabel"; text = "Measurement tag"; ObjectID = "mYE-gQ-m4X"; */
+"mYE-gQ-m4X.text" = "Measurement tag";
+
+/* Class = "UILabel"; text = "Current Settings"; ObjectID = "mhK-ok-Hkw"; */
+"mhK-ok-Hkw.text" = "Current Settings";
+
+/* Class = "UINavigationItem"; title = "Privacy Policy and Terms of Use"; ObjectID = "mq4-E2-Em2"; */
+"mq4-E2-Em2.title" = "Privacy Policy and Terms of Use";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nHG-3g-Gte"; */
+"nHG-3g-Gte.text" = "Title";
+
+/* Class = "UILabel"; text = "Test Counter"; ObjectID = "o8C-e9-YbK"; */
+"o8C-e9-YbK.text" = "Test Counter";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "oah-iu-cgb"; */
+"oah-iu-cgb.text" = "-";
+
+/* Class = "UILabel"; text = "_Network"; ObjectID = "ohe-ep-mbp"; */
+"ohe-ep-mbp.text" = "_Network";
+
+/* Class = "UILabel"; text = "RUN AGAIN"; ObjectID = "owU-eE-q3O"; */
+"owU-eE-q3O.text" = "RUN AGAIN";
+
+/* Class = "UINavigationItem"; title = "Qos Test Detail"; ObjectID = "pjc-at-QZN"; */
+"pjc-at-QZN.title" = "Qos Test Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "pzx-i0-m3P"; */
+"pzx-i0-m3P.text" = "Detail";
+
+/* Class = "UILabel"; text = "QOS"; ObjectID = "qDe-Fd-hgb"; */
+"qDe-Fd-hgb.text" = "QOS";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Define a custom control server to connect to. You will get a new uuid per control server host."; ObjectID = "qU6-Rj-hMh"; */
+"qU6-Rj-hMh.footerTitle" = "Demo text: Define a custom control server to connect to. You will get a new uuid per control server host.";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Control Server"; ObjectID = "qU6-Rj-hMh"; */
+"qU6-Rj-hMh.headerTitle" = "Custom Control Server";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "qja-eL-lrr"; */
+"qja-eL-lrr.text" = "-";
+
+/* Class = "UILabel"; text = "Min delay"; ObjectID = "uJ6-P4-MK2"; */
+"uJ6-P4-MK2.text" = "Min delay";
+
+/* Class = "UILabel"; text = "Use TLS"; ObjectID = "v8o-Ar-IbI"; */
+"v8o-Ar-IbI.text" = "Use TLS";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "vtn-dm-2ho"; */
+"vtn-dm-2ho.text" = "-";
+
+/* Class = "UILabel"; text = "QOS"; ObjectID = "wEd-DT-2yr"; */
+"wEd-DT-2yr.text" = "QOS";
+
+/* Class = "UITableViewSection"; footerTitle = "Demo text: Quality of Service measurements include ..."; ObjectID = "wMO-BU-6df"; */
+"wMO-BU-6df.footerTitle" = "Demo text: Quality of Service measurements include ...";
+
+/* Class = "UITableViewSection"; headerTitle = "Quality of Service"; ObjectID = "wMO-BU-6df"; */
+"wMO-BU-6df.headerTitle" = "Quality of Service";
+
+/* Class = "UILabel"; text = "800"; ObjectID = "wqn-b1-xio"; */
+"wqn-b1-xio.text" = "800";
+
+/* Class = "UITextField"; placeholder = "80"; ObjectID = "wt1-eC-TLc"; */
+"wt1-eC-TLc.placeholder" = "80";
+
+/* Class = "UITextField"; text = "5"; ObjectID = "wt1-eC-TLc"; */
+"wt1-eC-TLc.text" = "5";
+
+/* Class = "UITextField"; placeholder = "80"; ObjectID = "xCB-4o-pEB"; */
+"xCB-4o-pEB.placeholder" = "80";
+
+/* Class = "UILabel"; text = "WIFI"; ObjectID = "xTX-Cr-jbR"; */
+"xTX-Cr-jbR.text" = "WIFI";
+
+/* Class = "UILabel"; text = "_QOS status_"; ObjectID = "xVd-MF-xTN"; */
+"xVd-MF-xTN.text" = "_QOS status_";
+
+/* Class = "UINavigationItem"; title = "Info"; ObjectID = "xhU-qy-bbN"; */
+"xhU-qy-bbN.title" = "Info";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "yBS-uV-Bo0"; */
+"yBS-uV-Bo0.text" = "Title";
+
+/* Class = "UILabel"; text = "IPv6 only"; ObjectID = "yiR-4S-Ha8"; */
+"yiR-4S-Ha8.text" = "IPv6 only";
+
+/* Class = "UILabel"; text = "_Network"; ObjectID = "ylL-G8-RPV"; */
+"ylL-G8-RPV.text" = "_Network";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "ysI-kB-viS"; */
+"ysI-kB-viS.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Max tests"; ObjectID = "zI5-22-89c"; */
+"zI5-22-89c.text" = "Max tests";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "zIB-eP-x8n"; */
+"zIB-eP-x8n.text" = "1000";

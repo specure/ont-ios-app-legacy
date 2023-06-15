@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="b38-wa-Ze3">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Help-->
+        <scene sceneID="soM-ar-aXf">
+            <objects>
+                <viewController title="Help" id="0Md-Yk-vH0" customClass="HelpViewController" customModule="RMBT" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="IxK-3k-N2g"/>
+                        <viewControllerLayoutGuide type="bottom" id="JKw-t3-LAe"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bz9-Fd-IWQ">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="156"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Help" id="PFS-ma-UZz">
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon" id="U6Y-Dj-YoW"/>
+                    </navigationItem>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="200"/>
+                    <connections>
+                        <outlet property="sideBarButton" destination="U6Y-Dj-YoW" id="RdW-nJ-2yP"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="q2q-yK-7d9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="206" y="422"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="2Ym-rl-yRO">
+            <objects>
+                <navigationController definesPresentationContext="YES" id="b38-wa-Ze3" customClass="RMBTNavigationController" customModule="RMBT" customModuleProvider="target" sceneMemberID="viewController">
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="100"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="black" translucent="NO" id="5c1-SX-3mJ">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="0Md-Yk-vH0" kind="relationship" relationship="rootViewController" id="Bbs-rM-UWO"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bdh-N3-sU1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="206" y="149"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="reveal-icon" width="21" height="18"/>
+    </resources>
+</document>

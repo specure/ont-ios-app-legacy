@@ -1,0 +1,6 @@
+#include "../../Pods/Target Support Files/Pods-All-RMBT_ONT/Pods-All-RMBT_ONT.release.xcconfig"
+#include "Shared.xcconfig"
+
+OTHER_CFLAGS = -DRELEASE=1
+
+OTHER_SWIFT_FLAGS = -DRELEASE
