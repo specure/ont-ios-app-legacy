@@ -2,7 +2,7 @@
 
 [[ -z "${SRCROOT}" ]] && SRCROOT='.'
 
-API_KEY=
+API_KEY=example
 BaseLanguage=en
 
 curl --user api:$API_KEY -X -L -F file=@Resources/$BaseLanguage.lproj/Localizable.strings -X PUT https://www.transifex.com/api/2/project/nettest/resource/localizablestrings/content/

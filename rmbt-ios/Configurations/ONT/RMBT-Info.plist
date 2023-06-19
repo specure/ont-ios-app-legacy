@@ -27,7 +27,7 @@
 	<key>Fabric</key>
 	<dict>
 		<key>APIKey</key>
-		<string>0</string>
+		<string>example</string>
 		<key>Kits</key>
 		<array>
 			<dict>

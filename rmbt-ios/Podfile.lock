@@ -176,7 +176,7 @@ DEPENDENCIES:
   - KINWebBrowser (from `https://github.com/sglushchenko/KINWebBrowser`, branch `master`)
   - Mapbox-iOS-SDK
   - MarkdownView
-  - RMBTClient (from `./rmbt-ios-client`)
+  - RMBTClient (from `../rmbt-ios-client`)
   - SVProgressHUD
   - TUSafariActivity
   - XCGLogger
@@ -225,7 +225,7 @@ EXTERNAL SOURCES:
     :branch: master
     :git: https://github.com/sglushchenko/KINWebBrowser
   RMBTClient:
-    :path: "./rmbt-ios-client"
+    :path: "../rmbt-ios-client"
 
 CHECKOUT OPTIONS:
   KINWebBrowser:
@@ -272,6 +272,6 @@ SPEC CHECKSUMS:
   TUSafariActivity: afc55a00965377939107ce4fdc7f951f62454546
   XCGLogger: 1943831ef907df55108b0b18657953f868de973b
 
-PODFILE CHECKSUM: 8d900fa6d2d567a1016d464296b2cbfd9a79a030
+PODFILE CHECKSUM: bfc60ae2a553332247afb66abfbf9e0927c15277
 
 COCOAPODS: 1.11.3

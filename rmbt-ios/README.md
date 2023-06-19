@@ -27,4 +27,4 @@ $ arch -x86_64 pod install
 
 7. Replace all `example` values in the `*.strings` files.
 
-8. Launch the project and configure `Signing and Capabilites`, replace `example` values in `Build info`.
+8. Launch the project and configure `Signing and Capabilites`, replace `example` values in `Build Settings`.

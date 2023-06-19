@@ -1820,7 +1820,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Scripts/add_build_infos.sh\"";
+			shellScript = "\"${SRCROOT}/Scripts/add_build_infos.sh\"\n";
 		};
 		A15FE0B21F75518D009C1320 /* SwiftLint */ = {
 			isa = PBXShellScriptBuildPhase;
