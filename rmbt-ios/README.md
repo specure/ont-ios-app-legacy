@@ -23,8 +23,10 @@ $ arch -x86_64 pod install
 
 5. Adjust the server URLs in `Sources/RMBTONTConfigurationV2.swift`.
 
-6. Adjust the color scheme and other flavor-specific values in the `Sources/Customers/ONT/*.swift` files, if needed.
+6. Adjust the map style URLs in `Sources/Customers/ONT/ONT_RMBTConfig.swift`.
 
-7. Replace all `example` values in the `*.strings` files.
+7. Adjust the color scheme and other flavor-specific values in the `Sources/Customers/ONT/*.swift` files, if needed.
 
-8. Launch the project and configure `Signing and Capabilites`, replace `example` values in `Build Settings`.
+8. Replace all `example` values in the `*.strings` files.
+
+9. Launch the project and configure `Signing and Capabilites`, replace `example` values in `Build Settings`.
